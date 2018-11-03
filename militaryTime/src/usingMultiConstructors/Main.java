@@ -11,6 +11,7 @@ public class Main {
 		ToMilitary militaryObject3 = new ToMilitary(5, 13);
 		ToMilitary militaryObject4 = new ToMilitary(5, 13, 43);
 		
+		//Testing new repo
 		
 		System.out.printf("%s\n", militaryObject.toMilitary());
 		System.out.printf("%s\n", militaryObject2.toMilitary());
